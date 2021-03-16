@@ -9,4 +9,5 @@ window.addEventListener('DOMContentLoaded', () => {
   // add the array to local storage
   localStorage.setItem('products', data);
   // says data is not defined
+  // is data an issue?
 });
