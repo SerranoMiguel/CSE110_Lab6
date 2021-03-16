@@ -8,4 +8,5 @@ window.addEventListener('DOMContentLoaded', () => {
   // This should return an array of JavaScript objects. Be careful - fetch is asynchronous
   // add the array to local storage
   localStorage.setItem('products', data);
+  // says data is not defined
 });
